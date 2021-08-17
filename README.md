@@ -7,6 +7,8 @@ The 'Corner Helpers' are 3/4 circles that can be placed so that the open section
 
 The following files are modifed version of Sven Petersen's diagnostic harness case files. The two front screw posts were moved back to allow for screw holes to connect the edge connector to the case with M3 or 4-40 screws. This takes the stress off of the solder connections.
 
+EDIT: These files are provided freely. It is always polite to credit the source if you modify them and make them available or if are using freely provided files for a product you are selling.
+
 Sven's GitHub: https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness
 
 Fusion360 files:
